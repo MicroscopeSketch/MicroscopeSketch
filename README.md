@@ -2,7 +2,7 @@
 
 MicroscopeSketch: Accurate Sliding Estimation Using AdaptiveZooming
 
-This repostory contains all the codes related to the manuscript submitted to VLDB2022.
+This repostory contains all the codes related to the manuscript.
 
 BOBHash is used as the hash function in the code.
 
